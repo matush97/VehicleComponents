@@ -6,6 +6,9 @@ Pomocou jazyka Java a frameworku Spring boot som mal vytvoriť aplikáciu s webo
 
 
 Webové rozhranie
+
+
+
 Nasledovné webové rozhranie má zobrazovať:
 
 
