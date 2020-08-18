@@ -1,7 +1,7 @@
 # VehicleComponents
 Vehicle and components
 
-Pomocou jazyka Java a frameworku Spring boot som mal vytvoriť aplikáciu s webovým rozhraním, ktorá bude podporovať modelovanie rôznych typov bojových vozidiel a komponentov, a zobrazovanie vytvorených modelov a ich komponentov. Používal som tuna aj Spring MVC.
+Pomocou jazyka Java a frameworku Spring boot som mal vytvoriť aplikáciu s webovým rozhraním, ktorá bude podporovať modelovanie rôznych typov bojových vozidiel a komponentov, a zobrazovanie vytvorených modelov a ich komponentov. Používal som  Spring MVC.
 
 
 
